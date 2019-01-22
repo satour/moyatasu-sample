@@ -1,5 +1,5 @@
 import React  from 'react';
-import Header from './components/Block/header.js';
+import Header from './components/Block/Header.js';
 import Feed   from './components/Block/Feed.js';
 import Footer from './components/Block/Footer.js';
 
